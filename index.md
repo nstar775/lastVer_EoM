@@ -15,8 +15,8 @@
 
 # ▷ Related Images & Videos
 * Images
-  - ![관련이미지](./img/??/png)
+  - ![관련이미지](./img/??.png)
 * Videos
 
 # ▷ Representative image
-![이미지](./img/??/png)
+![이미지](./img/??.png)
