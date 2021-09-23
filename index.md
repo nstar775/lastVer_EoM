@@ -1,6 +1,6 @@
-# ProJect Name : Escape to Memory
+# ▶ ProJect Name : Escape to Memory
 
-# Concept
+# ▷ Concept
 > Main Concept
 
 > Sub concept1
@@ -13,10 +13,10 @@
 
 > Sub concept5
 
-# Related Images & Videos
+# ▷ Related Images & Videos
 * Images
   - ![관련이미지](./img/??/png)
 * Videos
 
-# Representative image
+# ▷ Representative image
 ![이미지](./img/??/png)
