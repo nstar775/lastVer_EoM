@@ -1,1 +1,1 @@
-#Index: nstar775.github.io/index
+## [Index](nstar775.github.io/index)
