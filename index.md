@@ -35,8 +35,7 @@
    
 > - Videos   
   <iframe width="632" height="356" src="https://www.youtube.com/embed/-pHsFDiRqOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-  <iframe width="1264" height="711" src="https://youtu.be/WfagWOwkxpc?t=2850" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+  <iframe width="1280" height="540" src="https://www.youtube.com/embed/1SjlSDMcsQw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ------------------------------------------------------------------------------
 # ▷ Representative image
 ![이미지](./img/??.png)
