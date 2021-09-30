@@ -29,7 +29,7 @@
     
 # ▷ Related Images & Videos
 * Images
-   ![관련이미지](./img/??.png)
+   ![ScreenShot7](https://user-images.githubusercontent.com/63893895/135368404-e9661c08-a037-44de-bab1-d2917a258c8c.png)
 * Videos   
   <iframe width="632" height="356" src="https://www.youtube.com/embed/-pHsFDiRqOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
