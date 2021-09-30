@@ -29,8 +29,10 @@
     
 # ▷ Related Images & Videos
 * Images
-  - ![관련이미지](./img/??.png)
+  <pre> ![관련이미지](./img/??.png) </pre>
 * Videos
+  <pre> [![The Stanley Parable](https://www.youtube.com/watch?v=-pHsFDiRqOM.jpg)](https://www.youtube.com/watch?v=-pHsFDiRqOM)</pre>
 
+------------------------------------------------------------------------------
 # ▷ Representative image
 ![이미지](./img/??.png)
