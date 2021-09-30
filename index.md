@@ -32,7 +32,7 @@
    ![관련이미지](./img/??.png)
 * Videos    
   - <iframe width="640" height="360" src="https://youtu.be/-pHsFDiRqOM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>      
-  - @[The Stanley Parable](https://youtu.be/-pHsFDiRqOM)
+  - @ [The Stanley Parable](https://youtu.be/-pHsFDiRqOM)
 
 ------------------------------------------------------------------------------
 # ▷ Representative image
