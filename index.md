@@ -30,8 +30,8 @@
 # ▷ Related Images & Videos
 * Images
    ![관련이미지](./img/??.png)
-* Videos   <iframe width="1264" height="711" src="https://www.youtube.com/embed/-pHsFDiRqOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-  {% include video id="-pHsFDiRqOM" provider="youtube" %}
+* Videos   
+  <iframe width="632" height="356" src="https://www.youtube.com/embed/-pHsFDiRqOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 
 ------------------------------------------------------------------------------
 # ▷ Representative image
