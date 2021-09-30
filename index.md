@@ -31,7 +31,7 @@
 * Images
   <pre> ![관련이미지](./img/??.png) </pre>
 * Videos
-  <pre> ![The Stanley Parable](https://www.youtube.com/watch?v=-pHsFDiRqOM.jpg)](https://www.youtube.com/watch?v=-pHsFDiRqOM) </pre>
+  - ![The Stanley Parable](https://www.youtube.com/watch?v=-pHsFDiRqOM.jpg)](https://www.youtube.com/watch?v=-pHsFDiRqOM)
 
 ------------------------------------------------------------------------------
 # ▷ Representative image
