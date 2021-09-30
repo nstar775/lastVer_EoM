@@ -27,7 +27,7 @@
     
 -------------------------------------------------------------------------------
     
-# ▷ Related Images & Videos
+# ▷ Related Images & Videos ####(관련 이미지 & 영상)
 * Images    
    ![Skyrim_Dungeon](https://user-images.githubusercontent.com/63893895/135368404-e9661c08-a037-44de-bab1-d2917a258c8c.png)
    ![Genshin_Impact_Abyssal Domains](https://user-images.githubusercontent.com/63893895/135368795-34e9843f-f569-4b30-8033-219563c67275.png)
