@@ -114,8 +114,7 @@
 <pre> Unity Engine을 기반으로한 솔로 플레잉 게임으로 진행, 시간이 충분하다고 생각되면 Blender3D로 일부 오브젝트 제작. </pre> 
 
 ------------------------------------------------------------------------------     
-# ▷ System
-
+# ▷ [System](https://docs.google.com/presentation/d/1K8scMwAmRMgk5Q4aBfStumylGHZJs_rFkaRPLHUwsNQ/edit?usp=sharing)
 ------------------------------------------------------------------------------     
 # ▷ Storyboard
 
