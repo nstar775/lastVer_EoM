@@ -115,6 +115,7 @@
 
 ------------------------------------------------------------------------------     
 # ▷ [System](https://docs.google.com/presentation/d/1K8scMwAmRMgk5Q4aBfStumylGHZJs_rFkaRPLHUwsNQ/edit?usp=sharing)
+<pre>링크참조</pre>
 ------------------------------------------------------------------------------     
-# ▷ Storyboard
-
+# ▷ [Storyboard](https://drive.google.com/file/d/1cczo3tTXUA2c_20jAdnHJnQian4kGlB4/view?usp=sharing)
+<pre></pre>
