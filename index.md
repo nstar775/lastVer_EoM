@@ -1,14 +1,14 @@
 # ProJect Name : 《Escape to Memory》   
 
 ## ▶목차
-### [# ▷ Concept](#--Concept)
+### [1.컨셉](#-Concept)
 ### [2.관련 이미지/영상](#-related-images--videos)
 ### [3.대표이미지](#-representative-image)
-### [4.작품묘사](#--Describe-the-concept--representative-image)
+### [4.작품묘사](#-Describe-the-concept--representative-image)
 ### [5.게임 요소](#escape-to-memorys-ingredients)
-### [6.기술](#--Technology)
-### [7.시스템](#--systemhttpsdocsgooglecompresentationd1k8scmwamrmgk5q4abfstumylghzjs_rfkarplhuwsnqedituspsharing)
-### [8.스토리보드](#▷ [Storyboard](https://drive.google.com/file/d/1cczo3tTXUA2c_20jAdnHJnQian4kGlB4/view?usp=sharing))
+### [6.기술](#-Technology)
+### [7.시스템](#-system)
+### [8.스토리보드](#-Storyboard)
 ### [9.]
     
 _________________________________________________________________________________
@@ -128,12 +128,12 @@ ________________________________________________________________________________
 
 ------------------------------------------------------------------------------     
 
-# ▷ [System](https://docs.google.com/presentation/d/1K8scMwAmRMgk5Q4aBfStumylGHZJs_rFkaRPLHUwsNQ/edit?usp=sharing)
-<pre>링크참조</pre>
+# ▷ System
+    -[시스템](https://docs.google.com/presentation/d/1K8scMwAmRMgk5Q4aBfStumylGHZJs_rFkaRPLHUwsNQ/edit?usp=sharing)
 
 ------------------------------------------------------------------------------     
 
-# ▷ [Storyboard](https://drive.google.com/file/d/1cczo3tTXUA2c_20jAdnHJnQian4kGlB4/view?usp=sharing)
-<pre>링크참조</pre>
+# ▷ Storyboard
+    - [스토리보드](https://drive.google.com/file/d/1cczo3tTXUA2c_20jAdnHJnQian4kGlB4/view?usp=sharing)
 
 ------------------------------------------------------------------------------    
