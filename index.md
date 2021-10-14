@@ -1,14 +1,16 @@
-# ProJect Name : 《Escape to Memory》
+# ProJect Name : 《Escape to Memory》   
+
 ## ▶목차
-### [1.컨셉](## ▷ Concept)
-### [2.관련 이미지/영상]
-### [3.]
-### [4.]
-### [5.]
-### [6.]
-### [7.]
+### [1.컨셉](# ▷ Concept)
+### [2.관련 이미지/영상](# ▷ Related Images & Videos)
+### [3.대표이미지](# ▷ Representative image)
+### [4.작품묘사](# ▷ Describe the concept & representative image)
+### [5.게임 요소](# ▷ 《Escape to Memory》's Ingredients)
+### [6.기술](# ▷Technology)
+### [7.시스템](# ▷ [System](https://docs.google.com/presentation/d/1K8scMwAmRMgk5Q4aBfStumylGHZJs_rFkaRPLHUwsNQ/edit?usp=sharing))
+### [8.스토리보드](# ▷ [Storyboard](https://drive.google.com/file/d/1cczo3tTXUA2c_20jAdnHJnQian4kGlB4/view?usp=sharing))
 _________________________________________________________________________________
-## ▷ Concept
+# ▷ Concept
 ### ☞ Main Concept
  - Adventure (탐험/모험)    
    <pre>설명 : 유저는 한정된 던전 속을 해매며 다니게 됩니다.</pre>    
