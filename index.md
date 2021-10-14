@@ -7,8 +7,7 @@
 ### [4.작품묘사](#-Describe-the-concept--representative-image)
 ### [5.게임 요소](#escape-to-memorys-ingredients)
 ### [6.기술](#▷ Technology)
-### [7.시스템](#▷ [System](https://docs.google.com/presentation/d/1K8scMwAmRMgk5Q4aBfStumylGHZJs_rFkaRPLHUwsNQ/edit?usp=sharing))
-### [# ▷ [System](https://docs.google.com/presentation/d/1K8scMwAmRMgk5Q4aBfStumylGHZJs_rFkaRPLHUwsNQ/edit?usp=sharing)]()
+### [7.시스템](#--systemhttpsdocsgooglecompresentationd1k8scmwamrmgk5q4abfstumylghzjs_rfkarplhuwsnqedituspsharing)
 ### [8.스토리보드](#▷ [Storyboard](https://drive.google.com/file/d/1cczo3tTXUA2c_20jAdnHJnQian4kGlB4/view?usp=sharing))
 ### [9.]
     
