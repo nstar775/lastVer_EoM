@@ -8,6 +8,7 @@
 ### [5.게임 요소](#escape-to-memorys-ingredients)
 ### [6.기술](#▷ Technology)
 ### [7.시스템](#▷ [System](https://docs.google.com/presentation/d/1K8scMwAmRMgk5Q4aBfStumylGHZJs_rFkaRPLHUwsNQ/edit?usp=sharing))
+### [# ▷ [System](https://docs.google.com/presentation/d/1K8scMwAmRMgk5Q4aBfStumylGHZJs_rFkaRPLHUwsNQ/edit?usp=sharing)]()
 ### [8.스토리보드](#▷ [Storyboard](https://drive.google.com/file/d/1cczo3tTXUA2c_20jAdnHJnQian4kGlB4/view?usp=sharing))
 ### [9.]
     
@@ -127,8 +128,13 @@ ________________________________________________________________________________
 <pre> Unity Engine을 기반으로한 솔로 플레잉 게임으로 진행, 시간이 충분하다고 생각되면 Blender3D로 일부 오브젝트 제작. </pre> 
 
 ------------------------------------------------------------------------------     
+
 # ▷ [System](https://docs.google.com/presentation/d/1K8scMwAmRMgk5Q4aBfStumylGHZJs_rFkaRPLHUwsNQ/edit?usp=sharing)
 <pre>링크참조</pre>
+
 ------------------------------------------------------------------------------     
+
 # ▷ [Storyboard](https://drive.google.com/file/d/1cczo3tTXUA2c_20jAdnHJnQian4kGlB4/view?usp=sharing)
 <pre>링크참조</pre>
+
+------------------------------------------------------------------------------    
