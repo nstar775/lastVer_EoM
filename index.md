@@ -3,7 +3,9 @@
 ## ▶목차
 ### [1.컨셉](#▷ Concept)
 ### [2.관련 이미지/영상](#▷ Related Images & Videos)
+### [▷ Related Images & Videos](#▷ Related Images & Videos)
 ### [3.대표이미지](#▷ Representative image)
+### [▷ Representative image]()
 ### [4.작품묘사](#▷ Describe the concept & representative image)
 ### [5.게임 요소](#▷《Escape to Memory》's Ingredients)
 ### [6.기술](#▷ Technology)
