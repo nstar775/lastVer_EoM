@@ -2,8 +2,7 @@
 
 ## ▶목차
 ### [1.컨셉](#▷ Concept)
-### [2.관련 이미지/영상](#▷ Related Images & Videos)
-### [▷ Related Images & Videos](#▷ Related Images & Videos)
+### [2.관련 이미지/영상](#-related-images--videos)
 ### [3.대표이미지](#▷ Representative image)
 ### [▷ Representative image]()
 ### [4.작품묘사](#▷ Describe the concept & representative image)
@@ -12,7 +11,9 @@
 ### [7.시스템](#▷ [System](https://docs.google.com/presentation/d/1K8scMwAmRMgk5Q4aBfStumylGHZJs_rFkaRPLHUwsNQ/edit?usp=sharing))
 ### [8.스토리보드](#▷ [Storyboard](https://drive.google.com/file/d/1cczo3tTXUA2c_20jAdnHJnQian4kGlB4/view?usp=sharing))
 ### [9.]
+    
 _________________________________________________________________________________
+    
 # ▷ Concept
 ### ☞ Main Concept
  - Adventure (탐험/모험)    
