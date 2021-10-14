@@ -3,12 +3,12 @@
 ## ▶목차
 ### [1.컨셉](#-Concept)
 ### [2.관련 이미지/영상](#-related-images--videos)
-### [3.대표이미지](#-related-images--videos)
-### [4.작품묘사](#-Describe-the-concept--representative-image)
-### [5.게임 요소](#escape-to-memorys-ingredients)
-### [6.기술](#Technology)
+### [3.대표이미지](#-representative-image)
+### [4.작품묘사](#-describe-the-concept--representative-image)
+### [5.게임 요소](#-escape-to-memorys-ingredients)
+### [6.기술](#-technology)
 ### [7.시스템](#-system)
-### [8.스토리보드](#-Storyboard)
+### [8.스토리보드](#-storyboard)
 ### [9.]
     
 _________________________________________________________________________________
