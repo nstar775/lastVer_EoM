@@ -1,11 +1,14 @@
 # ProJect Name : 《Escape to Memory》   
 
 ## ▶목차
-### [1.컨셉](#-Concept)
+### [1.컨셉](#-concept)
 ### [2.관련 이미지/영상](#-related-images--videos)
 ### [3.대표이미지](#-representative-image)
 ### [4.작품묘사](#-describe-the-concept--representative-image)
 ### [5.게임 요소](#-escape-to-memorys-ingredients)
+    #### [ⓐ메커니즘](#1mechanism)
+    #### [ⓑ스토리](#2story)
+    #### [ⓑ미적요소](#3artfactor)
 ### [6.기술](#-technology)
 ### [7.시스템](#-system)
 ### [8.스토리보드](#-storyboard)
