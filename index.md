@@ -1,12 +1,12 @@
 # ProJect Name : 《Escape to Memory》   
 
 ## ▶목차
-### [# ▷ Concept](#-Concept)
+### [# ▷ Concept](#--Concept)
 ### [2.관련 이미지/영상](#-related-images--videos)
 ### [3.대표이미지](#-representative-image)
-### [4.작품묘사](#-Describe-the-concept--representative-image)
+### [4.작품묘사](#--Describe-the-concept--representative-image)
 ### [5.게임 요소](#escape-to-memorys-ingredients)
-### [6.기술](#▷ Technology)
+### [6.기술](#--Technology)
 ### [7.시스템](#--systemhttpsdocsgooglecompresentationd1k8scmwamrmgk5q4abfstumylghzjs_rfkarplhuwsnqedituspsharing)
 ### [8.스토리보드](#▷ [Storyboard](https://drive.google.com/file/d/1cczo3tTXUA2c_20jAdnHJnQian4kGlB4/view?usp=sharing))
 ### [9.]
