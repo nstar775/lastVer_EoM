@@ -6,7 +6,7 @@
 ### [3.대표이미지](#-representative-image)
 ### [4.작품묘사](#-Describe-the-concept--representative-image)
 ### [5.게임 요소](#escape-to-memorys-ingredients)
-### [6.기술](#-Technology)
+### [6.기술](#Technology)
 ### [7.시스템](#-system)
 ### [8.스토리보드](#-Storyboard)
 ### [9.]
