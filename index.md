@@ -8,7 +8,7 @@
 ##### 5. [게임 요소](#-escape-to-memorys-ingredients)
    - [메커니즘](#1mechanism)
    - [스토리](#2story)
-   - [미적요소](#3art-factor)
+   - [미적요소](#3art-factor)    
 ##### 6. [기술](#-technology)
 ##### 7. [시스템](#-system)
 ##### 8. [스토리보드](#-storyboard)
