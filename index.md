@@ -132,12 +132,12 @@ ________________________________________________________________________________
 ------------------------------------------------------------------------------     
 
 # ▷ System
-   - ![시스템](https://docs.google.com/presentation/d/1K8scMwAmRMgk5Q4aBfStumylGHZJs_rFkaRPLHUwsNQ/edit?usp=sharing)
+   - [시스템](https://docs.google.com/presentation/d/1K8scMwAmRMgk5Q4aBfStumylGHZJs_rFkaRPLHUwsNQ/edit?usp=sharing)
 
 ------------------------------------------------------------------------------     
 
 # ▷ Storyboard
-   - ![스토리보드](https://drive.google.com/file/d/1cczo3tTXUA2c_20jAdnHJnQian4kGlB4/view?usp=sharing)
+   - [스토리보드](https://drive.google.com/file/d/1cczo3tTXUA2c_20jAdnHJnQian4kGlB4/view?usp=sharing)
 
 ------------------------------------------------------------------------------    
 
