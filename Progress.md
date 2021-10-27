@@ -288,7 +288,7 @@ public class Movement3D : MonoBehaviour
 
 }
 </code></pre>                         
-                        
+
 ##### ▼〔 PlayerCtrler.cs 〕▼
 <pre><code>
   using UnityEngine;
