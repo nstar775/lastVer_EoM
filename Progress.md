@@ -234,60 +234,58 @@ public class CameraController : MonoBehaviour
 ![이동2](https://user-images.githubusercontent.com/63893895/139097235-10c05584-533f-4030-925a-6854be5f8789.gif)
 
 ##### ▼〔 Movement3D.cs 〕▼    
-<pre><code> 
-using UnityEditor;
-using UnityEngine;
 
-public class Movement3D : MonoBehaviour
-{
-    [SerializeField]
-    private float moveSpeed = 5;
-    private Vector3 moveDirection;
+     using UnityEditor;
+     using UnityEngine;
 
-    [SerializeField]
-    private float gravity = -9.81f;
-    [SerializeField]
-    private float jumpForce = 3.0f;
+     public class Movement3D : MonoBehaviour
+     {
+         [SerializeField]
+         private float moveSpeed = 5;
+         private Vector3 moveDirection;
+     
+         [SerializeField]
+         private float gravity = -9.81f;
+         [SerializeField]
+         private float jumpForce = 3.0f;
 
+         private CharacterController CharCtrler;
 
+         public float MoveSpeed 
+         {
+             set => moveSpeed = Mathf.Clamp(value, 4.0f, 9.0f);
+         }
 
-    private CharacterController CharCtrler;
+         private void Awake()
+         {
+             CharCtrler = GetComponent<CharacterController>();
+         }
+     
+         private void Update()
+         {   
+             if( CharCtrler.isGrounded  == false)
+             {
+                 moveDirection.y += gravity * Time.deltaTime;
+             }
 
-    public float MoveSpeed 
-    {
-        set => moveSpeed = Mathf.Clamp(value, 4.0f, 9.0f);
-    }
+             CharCtrler.Move(moveDirection * moveSpeed * Time.deltaTime);
+         }
+      
+         public void MoveTo (Vector3 direction)
+         {
+             moveDirection = new Vector3(direction.x, moveDirection.y, direction.z);
+         }
+     
+         public void JumpTo()
+         {
+             if(CharCtrler.isGrounded == true)
+             {
+                 moveDirection.y = jumpForce;
+             }
+         }
 
-    private void Awake()
-    {
-        CharCtrler = GetComponent<CharacterController>();
-    }
+     }
 
-    private void Update()
-    {   
-        if( CharCtrler.isGrounded  == false)
-        {
-            moveDirection.y += gravity * Time.deltaTime;
-        }
-
-        CharCtrler.Move(moveDirection * moveSpeed * Time.deltaTime);
-    }
-
-    public void MoveTo (Vector3 direction)
-    {
-        moveDirection = new Vector3(direction.x, moveDirection.y, direction.z);
-    }
-
-    public void JumpTo()
-    {
-        if(CharCtrler.isGrounded == true)
-        {
-            moveDirection.y = jumpForce;
-        }
-    }
-
-}
-</code></pre>
 
 
 ##### ▼〔 PlayerCtrler.cs 〕▼
