@@ -1,5 +1,6 @@
 <pre>※ 주의 사항 : 새로 추가된 요소에는 【♨】가 붙어있습니다. </pre>
 # ProJect Name : 《Escape to Memory》  :  Progress
+##### [부모항목](/index.md)
 
 ## ▶목차
 #### 0. [요구 사항](#-requirements)
