@@ -336,8 +336,7 @@ public class PlayerCtrler : MonoBehaviour
 }
 ``` 
 
-
- #### ※ 추가 및 변경 된 사항
+#### ※ 추가 및 변경 된 사항
 - 요구사항에 따로 없던 Loading Scene을 추가 하였습니다. Start버튼을 누르면 Loading Scene으로 이동하며, 다음 맵을 로드 합니다.    
   로딩이후 아무 키를 누르면, 게임 화면(Start Scene)으로 이동합니다.
 - 이동과 관련이 있는 요구사항 14번 항목{14.마우스로 플레이어가 보고 있는 시점이동이 가능하며,    
