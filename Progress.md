@@ -287,7 +287,9 @@ public class Movement3D : MonoBehaviour
     }
 
 }
-</code></pre>                         
+
+</code></pre>            
+
 
 ##### ▼〔 PlayerCtrler.cs 〕▼
 <pre><code>
@@ -336,6 +338,7 @@ public class PlayerCtrler : MonoBehaviour
 
 }
 </code></pre>      
+
 
  #### ※ 추가 및 변경 된 사항
 - 요구사항에 따로 없던 Loading Scene을 추가 하였습니다. Start버튼을 누르면 Loading Scene으로 이동하며, 다음 맵을 로드 합니다.    
