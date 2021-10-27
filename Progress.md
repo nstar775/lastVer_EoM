@@ -6,7 +6,7 @@
 #### 1. [1주차](#-1st-week-progress)
  - [1주차 목표](#1주차-목표)
  - [1주차 작업결과](#1주차-작업-결과)
-#### 2. [2주차]
+#### 2. [2주차](#-2st-week-progress)
 #### 3. [3주차]
 
 _________________________________________________________________________________
@@ -75,6 +75,8 @@ ________________________________________________________________________________
 ### 작업 이미지 및 코드
 - 메인 화면
  ![Main](https://user-images.githubusercontent.com/63893895/139079899-9dacecda-55c0-409e-ad82-35bd8b0c719f.png)
+ 
+  - ▼〔 MainMenu.cs 〕▼
 ```csharp
 using System.Collections;
 using System.Collections.Generic;
@@ -105,6 +107,7 @@ public class MainMenu : MonoBehaviour
 - 로딩♨    
  ![Loading_Scene](https://user-images.githubusercontent.com/63893895/139085141-440aaac8-55d7-4cc6-b25e-b5c03ec12a7c.gif)
 
+  - ▼〔 SceneLoader.cs 〕▼
 ```csharp
 using System.Collections;
 using System.Collections.Generic;
@@ -157,6 +160,7 @@ public class SceneLoader : MonoBehaviour
 - 카메라 움직임 관련    
   ![카메라 ](https://user-images.githubusercontent.com/63893895/139088751-6390b093-4194-416c-bfd5-43b8eb064ca2.gif)
 
+  - ▼〔 CameraController.cs 〕▼
 ```csharp
 using UnityEngine;
 
@@ -220,6 +224,120 @@ public class CameraController : MonoBehaviour
     }
 }
 ```
+- 이동관련    
+![이동1](https://user-images.githubusercontent.com/63893895/139097241-4b538dd8-5eb6-4fa5-8ec1-8eb87ae1eff1.gif)
+![이동2](https://user-images.githubusercontent.com/63893895/139097235-10c05584-533f-4030-925a-6854be5f8789.gif)
 
- ##### 추가 및 변경 된 사항
-  - Load Scene을 추가 하였습니다. 로딩이후 아무 키를 누르면, 게임 화면(Start Scene)으로 이동.
+  - ▼〔 Movement3D.cs 〕▼
+```csharp
+using UnityEditor;
+using UnityEngine;
+
+public class Movement3D : MonoBehaviour
+{
+    [SerializeField]
+    private float moveSpeed = 5;
+    private Vector3 moveDirection;
+
+    [SerializeField]
+    private float gravity = -9.81f;
+    [SerializeField]
+    private float jumpForce = 3.0f;
+
+
+
+    private CharacterController CharCtrler;
+
+    public float MoveSpeed 
+    {
+        set => moveSpeed = Mathf.Clamp(value, 4.0f, 9.0f);
+    }
+
+    private void Awake()
+    {
+        CharCtrler = GetComponent<CharacterController>();
+    }
+
+    private void Update()
+    {   
+        if( CharCtrler.isGrounded  == false)
+        {
+            moveDirection.y += gravity * Time.deltaTime;
+        }
+
+        CharCtrler.Move(moveDirection * moveSpeed * Time.deltaTime);
+    }
+
+    public void MoveTo (Vector3 direction)
+    {
+        moveDirection = new Vector3(direction.x, moveDirection.y, direction.z);
+    }
+
+    public void JumpTo()
+    {
+        if(CharCtrler.isGrounded == true)
+        {
+            moveDirection.y = jumpForce;
+        }
+    }
+
+}
+```
+  - ▼〔 PlayerCtrler.cs 〕▼
+```csharp
+  using UnityEngine;
+
+public class PlayerCtrler : MonoBehaviour
+{
+    [SerializeField]
+    private KeyCode jumpKeyCode = KeyCode.Space;
+   [SerializeField]
+    private Transform cameraTransform;
+    private Movement3D movement3D;
+
+    private void Awake()
+    {
+        Cursor.visible = false;
+        Cursor.lockState = CursorLockMode.Locked;
+
+        movement3D = GetComponent<Movement3D>();
+    }
+
+    private void Update()
+    {
+        float x = Input.GetAxis("Horizontal");
+        float z = Input.GetAxis("Vertical");
+
+        if (Input.GetKeyDown(KeyCode.LeftShift))
+        {
+            movement3D.MoveSpeed = z > 0 ? 8.0f : 7.0f;
+        }
+        else if (Input.GetKeyUp(KeyCode.LeftShift))
+        {
+            movement3D.MoveSpeed = z > 0 ? 5.0f : 4.0f;
+        }
+
+        movement3D.MoveTo(cameraTransform.rotation * new Vector3(x, 0, z));
+
+        //회전설정
+        transform.rotation = Quaternion.Euler(0, cameraTransform.eulerAngles.y, 0);
+
+        if( Input.GetKeyDown(jumpKeyCode))
+        {
+            movement3D.JumpTo();
+        }
+    }
+
+}
+```
+
+ #### ※추가 및 변경 된 사항
+- 요구사항에 따로 없던 Loading Scene을 추가 하였습니다. Start버튼을 누르면 Loading Scene으로 이동하며, 다음 맵을 로드 합니다.    
+  로딩이후 아무 키를 누르면, 게임 화면(Start Scene)으로 이동합니다.
+- 이동과 관련이 있는 요구사항 14번 항목{14.마우스로 플레이어가 보고 있는 시점이동이 가능하며,    
+  마우스 휠을 드래그하면 확대, 축소 또한 가능하다.}을 이번주차에 구현 하였습니다.
+  
+  _________________________________________________________________________________
+    
+# ★ 2st week progress
+  - 작업 예정
