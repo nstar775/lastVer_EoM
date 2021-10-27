@@ -290,9 +290,8 @@ public class Movement3D : MonoBehaviour
 
 </code></pre>            
 
-
 ##### ▼〔 PlayerCtrler.cs 〕▼
-<pre><code>
+<pre>
   using UnityEngine;
 
 public class PlayerCtrler : MonoBehaviour
@@ -337,7 +336,7 @@ public class PlayerCtrler : MonoBehaviour
     }
 
 }
-</code></pre>      
+</pre>  
 
 
  #### ※ 추가 및 변경 된 사항
@@ -350,4 +349,4 @@ public class PlayerCtrler : MonoBehaviour
     
 # ★ 2st week progress
 ## 2주차 목표
-  -추후 추가 
+  -추후 추가 예정
