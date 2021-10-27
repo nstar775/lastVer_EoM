@@ -291,7 +291,8 @@ public class Movement3D : MonoBehaviour
 </code></pre>
 
 ##### ▼〔 PlayerCtrler.cs 〕▼
-<pre>
+
+```csharp
   using UnityEngine;
 
 public class PlayerCtrler : MonoBehaviour
@@ -336,7 +337,7 @@ public class PlayerCtrler : MonoBehaviour
     }
 
 }
-</pre>  
+``` 
 
 
  #### ※ 추가 및 변경 된 사항
