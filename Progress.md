@@ -78,8 +78,8 @@ ________________________________________________________________________________
 - 메인 화면
  ![Main](https://user-images.githubusercontent.com/63893895/139079899-9dacecda-55c0-409e-ad82-35bd8b0c719f.png)
  
-  - ▼〔 MainMenu.cs 〕▼    
-<pre><code>    
+  - ▼〔 MainMenu.cs 〕▼
+<pre><code>
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -110,8 +110,8 @@ public class MainMenu : MonoBehaviour
 - 로딩♨    
  ![Loading_Scene](https://user-images.githubusercontent.com/63893895/139085141-440aaac8-55d7-4cc6-b25e-b5c03ec12a7c.gif)
 
-  - ▼〔 SceneLoader.cs 〕▼    
-<pre><code> 
+  - ▼〔 SceneLoader.cs 〕▼
+<pre><code>
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -164,8 +164,8 @@ public class SceneLoader : MonoBehaviour
 - 카메라 움직임 관련    
   ![카메라 ](https://user-images.githubusercontent.com/63893895/139088751-6390b093-4194-416c-bfd5-43b8eb064ca2.gif)
 
-  - ▼〔 CameraController.cs 〕▼            
-<pre><code>     
+  - ▼〔 CameraController.cs 〕▼
+<pre><code>
 using UnityEngine;
 
 public class CameraController : MonoBehaviour
@@ -228,7 +228,6 @@ public class CameraController : MonoBehaviour
     }
 }
 </code></pre>             
-
     
 - 이동관련    
 ![이동1](https://user-images.githubusercontent.com/63893895/139097241-4b538dd8-5eb6-4fa5-8ec1-8eb87ae1eff1.gif)
@@ -290,9 +289,8 @@ public class Movement3D : MonoBehaviour
 
 }
 </code></pre>                         
-                     
                         
-   - ▼〔 PlayerCtrler.cs 〕▼    
+   - ▼〔 PlayerCtrler.cs 〕▼
 <pre><code>
   using UnityEngine;
 
