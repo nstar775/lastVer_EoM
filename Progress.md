@@ -3,14 +3,21 @@
 ##### [index로 돌아가기](/index.md)
 
 ## ▶목차
-#### 0. [요구 사항](#-requirements)
-#### 1. [1주차](#-1st-week-progress)
+#### A. [개발일정](#-development-schedule)    
+
+#### B. [요구 사항](#-requirements)
+
+#### 1. [1주차](#-1st-week-progress)    
  - [1주차 목표](#1주차-목표)
- - [1주차 작업결과](#1주차-작업-결과)
-#### 2. [2주차](#-2st-week-progress)
+ - [1주차 작업결과](#1주차-작업-결과)    </br>
+#### 2. [2주차](#-2st-week-progress)    
+
 #### 3. [3주차]
 
 _________________________________________________________________________________
+# ▷Development Schedule
+ ![image](https://user-images.githubusercontent.com/63893895/139181974-c682eb1b-64b8-40ba-acde-3b16de658fcd.png)
+
     
 # ▷ Requirements
 #### 게임 요구사항
