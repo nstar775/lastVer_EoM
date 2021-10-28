@@ -15,7 +15,7 @@
 #### 3. [3주차]
 
 _________________________________________________________________________________
-# ▷Development Schedule
+# ▷ Development Schedule
  ![image](https://user-images.githubusercontent.com/63893895/139181974-c682eb1b-64b8-40ba-acde-3b16de658fcd.png)
 
     
