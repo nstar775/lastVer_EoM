@@ -1,4 +1,4 @@
-# ProJect Name : 《Escape to Memory》   
+# ProJect Name : 《Escape in Memory》   
 
 ## ▶목차
 #### 1. [컨셉](#-concept)
@@ -68,7 +68,7 @@ ________________________________________________________________________________
 
 ------------------------------------------------------------------------------    
 
-# ▷ 《Escape to Memory》's Ingredients
+# ▷ 《Escape in Memory》's Ingredients
 ### 1.Mechanism    
   [도전과제]    
   <pre> 
