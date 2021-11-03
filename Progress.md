@@ -360,4 +360,4 @@ public class PlayerCtrler : MonoBehaviour
  스케치 단계로, 추후 제목 변경이 있을 수도 있음.>
   
   ![image](https://user-images.githubusercontent.com/63893895/140088146-32e4c3e4-b976-4515-930b-921afb2dc51f.png)
- 출처: ![에셋스토어](https://assetstore.unity.com/packages/3d/props/old-hand-torch-156928#description)
+ 출처: [에셋스토어](https://assetstore.unity.com/packages/3d/props/old-hand-torch-156928#description)
