@@ -1,5 +1,5 @@
 <pre>※ 주의 사항 : 새로 추가된 요소에는 【♨】가 붙어있습니다. </pre>
-# ProJect Name : 《Escape to Memory》  :  Progress
+# ProJect Name : 《Escape in Memory》  :  Progress
 ##### [index로 돌아가기](/index.md)
 
 ## ▶목차
