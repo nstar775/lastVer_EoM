@@ -376,4 +376,9 @@ public class PlayerCtrler : MonoBehaviour
   >> 이유: 영어 뜻이 이상해 지기 때문에, 변경하였음.   
   
   ![image](https://user-images.githubusercontent.com/63893895/140088146-32e4c3e4-b976-4515-930b-921afb2dc51f.png)
- 출처: [에셋스토어](https://assetstore.unity.com/packages/3d/props/old-hand-torch-156928#description)
+  ![image](https://user-images.githubusercontent.com/63893895/140238059-6e6bee5a-becf-4a16-a543-75791c4c6b5a.png)
+
+ 출처
+ [에셋스토어 | Torchlight](https://assetstore.unity.com/packages/3d/props/old-hand-torch-156928#description)
+ [에셋스토어 | Piano ] (https://assetstore.unity.com/packages/3d/props/15-low-poly-models-202061)
+
