@@ -368,7 +368,7 @@ public class PlayerCtrler : MonoBehaviour
 2. 아이템을 3D로 직접 만들거나, 오픈소스를 찾는다.(50%)
 3. 2번항목에 필요한 엔딩 일러스트를 그린다. (10%)
 
-## 1주차 작업 결과 :
+### 2주차 작업 결과 :
 
   -그래픽 작업    
   ![image](https://user-images.githubusercontent.com/63893895/140087629-6eb9dac9-9842-4e92-99e4-b85c795adb07.png)    
