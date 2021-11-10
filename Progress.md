@@ -406,12 +406,16 @@ ________________________________________________________________________________
 
 ####작업 내용 : (구체적 작업)
 
-    1. 3D 프로그램으로 케릭터를 구현하는 작업을 시작한다.
-    2. 맵을 구상하고 만든다.
-    3. 특정 구간에서 시야를 어둡게 만든다.
-    4. 엔딩 2D 일러스트 씬을 계속해서 구상하도록한다.
-    5. 일부 아이템에 상호작용이 되게 한다.
+    1. 3D 프로그램으로 케릭터를 구현하는 작업을 시작한다. (0%)
+    2. 맵을 구상하고 만든다. (15% - 전체 4스테이지 중 1스테이지)
+    3. 특정 구간에서 시야를 어둡게 만든다. (0% 2스테이지 내용이므로 다음 주차)
+    4. 엔딩 2D 일러스트 씬을 계속해서 구상하도록한다. (50% 스케치뿐이므로 미루어짐.)
+    5. 일부 아이템에 상호작용이 되게 한다. (5% 아직 스크립트 작성 중)
 
 ### 3주차 작업 결과 :
 
+![image](https://user-images.githubusercontent.com/63893895/141150809-4d366fc2-779a-4122-a838-a621539b0f75.png)
+
 <iframe width="632" height="356" src="https://youtu.be/yNXEv3_3xY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+
