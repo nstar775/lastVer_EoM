@@ -384,5 +384,34 @@ public class PlayerCtrler : MonoBehaviour
 
  출처
  > [에셋스토어 | Torchlight](https://assetstore.unity.com/packages/3d/props/old-hand-torch-156928#description)    
- > [에셋스토어 | Piano ](https://assetstore.unity.com/packages/3d/props/15-low-poly-models-202061)
+ > [에셋스토어 | Piano ](https://assetstore.unity.com/packages/3d/props/15-low-poly-models-202061)    
 
+_________________________________________________________________________________
+    
+# ★ 3st week progress
+### 3주차 목표   
+
+####작업명 : 맵과 케릭터 구현    
+
+ - 게임
+     10. 게임화면에는 기본적으로 아무것도 나오지 않으나, 특정 오브젝트와 일정한 거리 다가갈 시 상호 작용 메세지가 중앙에 작게 나온다.
+     11. 스테이지로 구분되나, 특별한 구별은 없고 모든 스테이지 맵들은 이어져있고, 특정 조건을 맞출 시 막혀있는 문이 열리는 구조이다.
+     19. 2스테이지에서 일정 구간 동안은 시야를 어둡게 제한한다.
+     20. 2스테이지에서 주는 횃불이 어두운 구간에서 일정 범위만 길을 비추게 한다. 
+
+ - 그래픽
+     3. 케릭터는 3D캐릭터로 구현한다.
+     4. 아이템은 3D로 구현하되 아이콘은 따로없다.
+     5. 메인화면과,  게임 로고가 있다.
+
+####작업 내용 : (구체적 작업)
+
+    1. 3D 프로그램으로 케릭터를 구현하는 작업을 시작한다.
+    2. 맵을 구상하고 만든다.
+    3. 특정 구간에서 시야를 어둡게 만든다.
+    4. 엔딩 2D 일러스트 씬을 계속해서 구상하도록한다.
+    5. 일부 아이템에 상호작용이 되게 한다.
+
+### 3주차 작업 결과 :
+
+<iframe width="632" height="356" src="https://youtu.be/yNXEv3_3xY4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
