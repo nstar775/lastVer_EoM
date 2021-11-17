@@ -449,7 +449,7 @@ ________________________________________________________________________________
  ![image](https://user-images.githubusercontent.com/63893895/142281487-722f312f-fb8f-4670-b15f-7ac4cbb2dde7.png)    <br>
    - 2스테이지 구상도. 노란화살표는 가짜 길, 붉은 색은 진행로, 흰색은 숨겨진 길입니다. 50%정도 입니다.    <br>    
 
-<br><iframe width="1020" height="574" src="https://www.youtube.com/embed/nzb07veJ-Fw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
+<iframe width="1020" height="574" src="https://www.youtube.com/embed/nzb07veJ-Fw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
   - 카메라는 1인칭으로 변경예정입니다. 현재 개발의 편의를 위해 당장 바꾸지 않을 예정입니다.
   - 숨겨진 길은 투명한 길로 이루어져 있습입니다. 추후 숨겨놓은 방으로 가는 투명한 길에 낙하방지 투명벽을 설치 할 예정이며, 해당 길은 콜라이더가 존재하지 않는 벽으로 막아 숨겨 놓을 예정입니다.
