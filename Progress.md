@@ -447,7 +447,7 @@ ________________________________________________________________________________
   3. 두번째 스테이지의 절반 정도를 구상하였고, 나머지 절반은 구상중입니다.    
        
  ![image](https://user-images.githubusercontent.com/63893895/142281487-722f312f-fb8f-4670-b15f-7ac4cbb2dde7.png)    <br>
-   - 2스테이지 구상도. 노란화살표는 가짜 길, 붉은 색은 진행로, 흰색은 숨겨진 길입니다. 50%정도 입니다.
+   - 2스테이지 구상도. 노란화살표는 가짜 길, 붉은 색은 진행로, 흰색은 숨겨진 길입니다. 50%정도 입니다.    <br>    
 
 <br><iframe width="1020" height="574" src="https://www.youtube.com/embed/nzb07veJ-Fw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
