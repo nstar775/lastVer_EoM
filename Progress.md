@@ -34,27 +34,27 @@ ________________________________________________________________________________
    ~~8. Exit를 누르면 게임 프로그램이 종료된다.~~    
    ~~9. 시작 화면에서 Start버튼을 클릭하면 게임화면으로 변경된다.~~    
    10. 게임화면에는 기본적으로 아무것도 나오지 않으나, 특정 오브젝트와 일정한 거리 다가갈시 상호작용메세지가 중앙에 작게 나온다.         
-   11. 스테이지는 있으나, 특별한 구별은 없고 모든 스테이지 맵은 이어져있고, 특정 조건을 맞출시 막혀있는 문이 열리는 구조이다.    
-   12. 스테이지에 진입하면 문이 닫힌다.    
+   ~~11. 스테이지는 있으나, 특별한 구별은 없고 모든 스테이지 맵은 이어져있고, 특정 조건을 맞출시 막혀있는 문이 열리는 구조이다.   ~~
+   ~~12. 스테이지에 진입하면 문이 닫힌다. ~~
    ~~13. 조작은 키보드의 WASD로 W는 전진, S는 후진하며, A는 좌, D는 우측 방향으로 이동이가능하다.~~        
    ~~14. 마우스로 플레이어가 보고 있는 시점이동이 가능하며, 마우스 휠을 드래그하면 확대, 축소 또한 가능하다.~~        
-   15. ~~Shift는 달리기이고 속도가 3증가하고, Space Bar는 점프이며,~~ F키는 상호작용키 이다.        
+   15. ~~Shift는 달리기이고 속도가 3증가하고, Space Bar는 점프이며, F키는 상호작용키 이다.  ~~
    16. NPC오브젝트와 상호작용시, 게임화면 하단에 대화창이 출력된다. 이때, F키를 누르면 대화창을 넘길 수 있다.        
    17. 단서는 특정 이벤트 달성시, 자동으로 해금(습득) 한다.      
    18. 단서를 모두 모으면 히든 엔딩을 볼수 있는 길로 가는 숨겨진 통로로 가는 길이 열린다. 하지만 통과할수 있는 벽으로 그냥 지나칠 수도 있게한다.     
-   19. 2스테이지에서 일정 구간 동안은 시아를 어둡게 제한한다.     
-   20. 1스테이지에서 주는 횃불이 어두운 구간에서 일정 범위만 길을 빛추게 한다.     
+   ~~19. 2스테이지에서 일정 구간 동안은 시아를 어둡게 제한한다.~~      
+   ~~20. 1스테이지에서 주는 횃불이 어두운 구간에서 일정 범위만 길을 빛추게 한다. ~~    
    21. 구간에 진입시 이벤트가 발생하는 구간이 있다.     
    22. 엔딩장면까지 다 보면 시작화면으로 돌아오고, 엔딩화면에 있는 엔딩항목에 엔딩장면이 해금된다.     
    ~~23. 카메라는 플레이어의 3인칭으로 하며, 마우스로 카메라 회전이 가능하다.~~     
    ~~24. 카메라가 회전했을 때, W를 눌러 앞으로 가면 카메라가 보는 방향으로 케릭터가 회전하며, 케릭터가 이동하도록한다.~~     
     
 #### 그래픽 요구사항
-   1. 횃불은 플레쉬 장난감이라는 설정이므로 불부분이 무드등 같이 빛나는 효과를 주도록 한다.     
+   ~~1. 횃불은 플레쉬 장난감이라는 설정이므로 불부분이 무드등 같이 빛나는 효과를 주도록 한다.~~     
    2. 게임의 엔딩에서는 2D 그림을 보여주며 간단한 만화형식으로 한장한장 지나가는 식으로 한다.      
    3. 케릭터는 3D캐릭터로 구현한다.     
-   4. 아이템은 3D로 구현하되 아이콘은 따로없다.     
-   5. 메인화면과,  게임 로고가 있다.     
+   ~~4. 아이템은 3D로 구현하되 아이콘은 따로없다. ~~
+   ~~5. 메인화면과,  게임 로고가 있다.~~     
     
 #### 추가 요구사항
    ~~1. Loading Scean을 추가, 게임 시작할때, 로딩이나오며 로딩이 끝나면 아무키를 눌러 게임화면을 보이게 합니다.~~    
@@ -455,3 +455,313 @@ ________________________________________________________________________________
   - 숨겨진 길은 투명한 길로 이루어져 있습입니다. 추후 숨겨놓은 방으로 가는 투명한 길에 낙하방지 투명벽을 설치 할 예정이며, 해당 길은 콜라이더가 존재하지 않는 벽으로 막아 숨겨 놓을 예정입니다.
   - 중간의 가늘고 긴 발판이 많은 구간에는 중간 중간 가짜 발판이 숨겨져 있습니다.
   - 물리적용이 이상하여 퍼즐을 풀떄 필요한 큐브가 잘 뭄직이지 않으나 아예 움직이지 않는 것은 아닙니다.
+
+_________________________________________________________________________________
+    
+# ★ 5st week progress
+### 5주차 목표
+##### 작업명 : 마무리 전 단계(1스테이지 마무리)
+
+##### 해당 요구사항 : 
+<pre>
+  6. 게임화면에는 기본적으로 아무것도 나오지 않으나, 특정 오브젝트와 일정한 거리 다가갈시 상호작용메세지가 중앙에 작게 나온다. 
+  7. 스테이지는 있으나, 특별한 구별은 없고 모든 스테이지 맵은 이어져있고, 특정 조건을 맞출시 막혀있는 문이 열리는 구조이다.
+  10. 게임화면에는 기본적으로 아무것도 나오지 않으나, 특정 오브젝트와 일정한 거리 다가갈 시 상호 작용 메세지가 중앙에 작게 나온다.
+  11. 스테이지로 구분되나, 특별한 구별은 없고 모든 스테이지 맵들은 이어져있고, 특정 조건을 맞출 시 막혀있는 문이 열리는 구조이다.
+  17. 단서는 특정 이벤트 달성시, 자동으로 해금(습득) 한다.
+  19. 2스테이지에서 일정 구간 동안은 시야를 어둡게 제한한다.
+  20. 2스테이지에서 주는 횃불이 어두운 구간에서 일정 범위만 길을 비추게 한다.
+   </pre>
+
+##### 작업 내용 :
+ 1. 월드를 어둡게 하고, 전구로 밝히는 형식을 취한다. 횃불도 파티클과 발광이벤트를 활용하여 빛이 나게 한다. (98%)
+ 2.  2스테이지 맵를 완성 시킨다. (100%)
+ 3.  1스테이지의  퍼즐(첫번째방,피아노방, 횃불방)을 완성시킨다. (95%)
+ 4.  카메라를 1인칭으로 바꾼다. (0%)
+ 5.  몬스터를 구현하고 특정 발판을 만들어 그 발판을 누름으로써 스테이지 문이 열리고, 몬스터가 멈추게 한다 (0%)
+
+
+##### 작업결과 :
+ 
+ 1. 월드를 최대한 어둡게 하고, point light 를 이용하여 맵을 밝히고 같은 방식으로 횃불에도 해당 작업을함.
+ 2. 첫번째 방은 Cube에서 Sphere로, 갯수는 4개에서 1개로, 버튼은 그대로 4개로 하여 공을 굴려 버튼을 밟게 하도록 하는 퍼즐로 변경하였음.
+ 3. 피아노 퍼즐을 완성하였으나, 아직 BGM관련 Audio는 아직까지 출력은 안되며, 세번째 방, 눈사람을 근처에 가서 횃불을 나타나게 하는 건 되었으나, 아직 드는 것 까진 구연하지 못함.
+
+<iframe width="1020" height="574" src="https://www.youtube.com/embed/ADv0NI-d6T0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+##### ▼〔 Piano.cs 〕▼
+
+```csharp
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Piano : MonoBehaviour
+{
+    [SerializeField]
+    GameObject PianoPanel;
+
+    [SerializeField]
+    GameObject gameManager;
+
+    [SerializeField]
+    GameObject player;
+
+    Stage01_2 stg01_2;
+
+    bool isPlayPiano = false;
+    public int openCount = 0;
+
+
+    private void Start()
+    {
+        player = GameObject.FindGameObjectWithTag("Player");
+        stg01_2 = gameManager.GetComponent<Stage01_2>();
+        
+    }
+
+
+    private void OnTriggerStay(Collider other)
+    {
+        if (other.gameObject == player)
+        {
+            if (Input.GetKey(KeyCode.F))
+            {
+                if (!PianoPanel.activeInHierarchy)
+                {
+                    PianoPanel.SetActive(true);
+                    player.SetActive(false);
+                    isPlayPiano = true;
+                }
+            }
+        }
+    }
+
+
+    private void Update()
+    {
+        if (isPlayPiano == true)
+        {
+            if (Input.GetKeyDown(KeyCode.Escape))
+                isPlayPiano = false;
+
+            if (Input.GetKeyDown(KeyCode.A)) //C (도)
+            {
+                if (openCount >= 0)
+                {
+                    openCount = 0;
+                }
+            }
+
+            if (Input.GetKeyDown(KeyCode.S)) //D (레)
+            {
+                if (openCount >= 0)
+                {
+                    openCount = 0;
+                }
+            }
+
+            if (Input.GetKeyDown(KeyCode.D)) // E (미)
+            {
+                if (openCount == 1)
+                    openCount += 1;
+                else
+                    openCount = 0;
+            }
+
+            if (Input.GetKeyDown(KeyCode.F)) // F (파)
+            {
+                if (openCount == 2)
+                    openCount += 1;
+                else if (openCount == 5)
+                    openCount += 1;
+                else
+                    openCount = 0;
+            }
+
+            if (Input.GetKeyDown(KeyCode.J)) //G (솔)
+            {
+                if (openCount == 0)
+                    openCount += 1;
+                else if (openCount == 3)
+                    openCount += 1;
+                else
+                    openCount = 0;
+            }
+
+            if (Input.GetKeyDown(KeyCode.K)) //A (라)
+            {
+                if (openCount == 4)
+                {
+                    openCount += 1;
+                }
+                else
+                    openCount = 0;
+            }
+
+            if (Input.GetKeyDown(KeyCode.L)) //B (시)
+            {
+                if (openCount >= 0)
+                {
+                    openCount = 0;
+                }
+            }
+
+            if (Input.GetKeyDown(KeyCode.Semicolon)||Input.GetKeyDown(KeyCode.Colon)) // C (높은 도)
+            {
+                if (openCount >= 0)
+                {
+                    openCount = 0;
+                }
+            }
+
+            if(openCount >= 6)
+            {
+                isPlayPiano = false;
+                stg01_2.OpenDoor();
+            }
+        }
+        if( isPlayPiano == false)
+        {
+            PianoPanel.SetActive(false);
+            player.SetActive(true);
+        }
+    }
+}
+``` 
+
+##### ▼〔 Stage01_2.cs 〕▼
+
+```csharp
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Stage01_1 : MonoBehaviour
+{
+    [SerializeField]
+    GameObject door1;
+    [SerializeField]
+    GameObject door2;
+
+    [SerializeField]
+    Vector3 door_pos = new Vector3(0, -15, 0); 
+    int puzzle_count = 4;
+
+    bool isOpened = false;
+
+    [SerializeField]
+    int OpenCount = 0;
+
+    private void FixedUpdate()
+    {
+        if (OpenCount >= puzzle_count)
+        {
+            if (isOpened == false)
+            {
+                isOpened = true;
+
+                door1.transform.position += door_pos;
+                door2.transform.position += door_pos;
+            }
+        }
+    }
+
+    public void AddOpenCount()
+    {
+        OpenCount += 1;
+    }
+}
+```    
+
+
+##### ▼〔 Stage01_2.cs 〕▼
+
+```csharp
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Stage01_2 : MonoBehaviour
+{
+    [SerializeField]
+    GameObject door1;
+    [SerializeField]
+    GameObject door2;
+
+    [SerializeField]
+    Vector3 door_pos = new Vector3(0, -15, 0);
+
+    bool isOpened = false;
+
+    public void OpenDoor()
+    {
+        if (isOpened == false)
+        {
+            isOpened = true;
+
+            door1.transform.position += door_pos;
+            door2.transform.position += door_pos;
+        }
+    }
+}
+
+```    
+
+
+##### ▼〔 giftTorch.cs 〕▼
+
+```csharp
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class giftTorch : MonoBehaviour
+{
+    [SerializeField]
+    GameObject torchLight;
+
+    GameObject Player;
+
+    //PlayerStates playerStates;
+
+    private void Awake()
+    {
+        Player = GameObject.FindWithTag("Player");
+    }
+
+    private void OnTriggerEnter(Collider other)
+    {
+        if(other.gameObject == Player) 
+        {
+            if (!torchLight.activeInHierarchy)
+                torchLight.SetActive(true);
+        }
+    }
+}
+```    
+_________________________________________________________________________________
+# ★ 5st week progress
+### 6주차 목표
+##### 작업명 : 마무리 (1스테이지 마무리작업 및 2스테이지 퍼즐 완성 및 엔딩)
+
+##### 해당 요구사항 :      
+<pre>
+  //시스템
+  21. 구간에 진입시 이벤트가 발생하는 구간이 있다.
+  
+  //그래픽
+  2. 게임의 엔딩에서는 2D 그림을 보여주며 간단한 만화형식으로 한장한장 지나가는 식으로 한다.
+</pre>
+
+##### 작업 내용 :     
+  1. 횃불을 들수 있게끔 한다.
+  2. 카메라를 1인칭으로 바꾼다.
+  3. 피아노를 칠때, 도레미파솔라시도 각 음계의 맞는 소리가 나게 한다.
+  4. 2스테이지의 퍼즐을 구현한다. 구상도는 텍스트로 구상해 놓음.
+  5. 2스테이지의 두번째 방에서 버튼과 몬스터를 구현한다.
+  6. 이때, 이몬스터는 플레이어를 쫒아오는 것이 아닌, 정해진길로만 다닌다.
+
+###### 2스테이지 구상
+ > 첫번째 방은 어두운 곳에서 횃불 만을 의지해 설치된 발판형 함정을 피해, 함정을 무력화 시키는 버튼을 찾는다.
+ > 두번쨰 방에 들어가면 꺼져있던 몬스터들이 켜진다. 각 몬스터들은 아주 미약한 불빛이 나며, 오직 정해진 길로만 다니며, 역시 위와 같이 세개의 버튼을 찾아서 몬스터들을 무력화 시킨다.
