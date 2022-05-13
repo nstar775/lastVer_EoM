@@ -39,12 +39,11 @@ ________________________________________________________________________________
 # ▷ Related Images & Videos
 
 > - Images   
-   ![Skyrim_Dungeon](https://user-images.githubusercontent.com/63893895/135368404-e9661c08-a037-44de-bab1-d2917a258c8c.png)
-   ![Genshin_Impact_Abyssal Domains](https://user-images.githubusercontent.com/63893895/135368795-34e9843f-f569-4b30-8033-219563c67275.png)
+![image](https://user-images.githubusercontent.com/63893895/168222054-f4a2e242-9197-4217-850a-7210e88acf29.png)
+
    
 > - Videos   
-  <iframe width="632" height="356" src="https://www.youtube.com/embed/-pHsFDiRqOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
-  <iframe width="640" height="270" src="https://www.youtube.com/embed/1SjlSDMcsQw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>    
+ <iframe width="632" height="356" src="https://www.youtube.com/embed/-pHsFDiRqOM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
   
 ------------------------------------------------------------------------------
 
@@ -54,9 +53,7 @@ ________________________________________________________________________________
 ------------------------------------------------------------------------------
 
 # ▷ Describe the concept & representative image
-  - 한줄묘사 :  정해진 길을 따라가며 숨겨진 단서와 이야기를 찾아 닫힌 문을열고 나아가는 던전탐험 퍼즐게임      
-> ![작품묘사](https://user-images.githubusercontent.com/63893895/135371080-479fbf47-f7a0-415b-ab49-2744dde31dc3.gif)
-
+  - 한줄묘사 :  숨겨진 단서와 이야기를 찾아 닫힌 문을열고 나아가는 퍼즐게임 (수정중)
 ------------------------------------------------------------------------------    
 
 # ▷ 《Escape in Memory》's Ingredients
